@@ -6,6 +6,9 @@
 - 📖 I’m currently in learning mode 
 - 👯 I’m looking to collaborate with other content creators
 
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="TechWaker.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -16,10 +19,12 @@
 <br/>
 <br/>
 
+---
+
 ### My Interests:
 - Python Programming
 - Machine Learning
-_ Reinforcement Learning
+- Reinforcement Learning
 
 ---
 
