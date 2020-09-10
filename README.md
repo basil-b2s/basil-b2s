@@ -2,6 +2,10 @@
 
 ### I'm a Student👨‍🎓, Programmer💻 and ML Enthusiast😎
 
+- 💻 Interested in Reinforcement Learning
+- 📖 I’m currently in learning mode 
+- 👯 I’m looking to collaborate with other content creators
+
 ### Connect with me:
 
 [<img align="left" alt="TechWaker.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
