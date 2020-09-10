@@ -30,8 +30,8 @@
 
 ### ✒ Blog Posts
 
--[Machine Learning Series](https://techwakerai.blogspot.com/search/label/Machine%20Learning?&max-results=10)
--[Reinforcement Learning Series](https://techwakerai.blogspot.com/search/label/Reinforcement%20Learning?&max-results=5)
+- [Machine Learning Series](https://techwakerai.blogspot.com/search/label/Machine%20Learning?&max-results=10)
+- [Reinforcement Learning Series](https://techwakerai.blogspot.com/search/label/Reinforcement%20Learning?&max-results=5)
 
 ---
 
