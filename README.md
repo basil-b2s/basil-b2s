@@ -16,6 +16,11 @@
 <br/>
 <br/>
 
+### My Interests:
+- Python Programming
+- Machine Learning
+_ Reinforcement Learning
+
 ---
 
 ### ✒ Latest Blog Posts
