@@ -44,4 +44,6 @@
 
 <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=basil-b2s&repo=InstaBot&theme=tokyonight)](https://github.com/basil-b2s/InstaBot)
+### Favorite🤗
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=basil-b2s&repo=InstaBot&theme=dark)](https://github.com/basil-b2s/InstaBot)
