@@ -40,3 +40,8 @@
 [twitter]: https://twitter.com/BasilB2S
 [linkedin]: www.linkedin.com/in/basilsaji-b2s
 [instagram]: https://www.instagram.com/i_am__b2s/
+
+
+<br/>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=basil-b2s&repo=InstaBot&theme=tokyonight)](https://github.com/basil-b2s/InstaBot)
