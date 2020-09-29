@@ -47,4 +47,5 @@
 ### Favorite🤗
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=basil-b2s&repo=InstaBot&theme=dark)](https://github.com/basil-b2s/InstaBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=basil-b2s&repo=Flower-prediction&theme=dark)](https://github.com/basil-b2s/Flower-prediction)
 
