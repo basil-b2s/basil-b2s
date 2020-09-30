@@ -38,7 +38,7 @@
 
 [website]: https://techwakerai.blogspot.com/
 [twitter]: https://twitter.com/BasilB2S
-[linkedin]: www.linkedin.com/in/basilsaji-b2s
+[linkedin]: https://www.linkedin.com/in/basilsaji-b2s/
 [instagram]: https://www.instagram.com/i_am__b2s/
 
 
