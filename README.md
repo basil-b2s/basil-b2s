@@ -1,4 +1,4 @@
-### Hi there, I'm Basil Saji 😎
+### Hi, I'm Basil Saji 😎
 
 ### I'm a Student👨‍🎓, Programmer💻 and ML Enthusiast😎
 
