@@ -6,7 +6,7 @@
 - 📖 I’m currently in learning mode 
 - 👯 I’m looking to collaborate with other content creators
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=basil-b2s&label=Views&color=blue&style=plastic" alt="basil-b2s" /> </p>
 ---
 
 ### Connect with me:
