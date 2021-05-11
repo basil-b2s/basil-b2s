@@ -5,7 +5,7 @@
 
 ### I'm a Student👨‍🎓, Programmer💻 and ML Enthusiast😎
 
-- 💻 Interested in Reinforcement Learning
+- 💻 Interested in Natural Language Processing
 - 📖 I’m currently in learning mode 
 - 👯 I’m looking to collaborate with other content creators
 
