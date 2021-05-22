@@ -30,12 +30,6 @@
 
 ---
 
-### ✒ Blog Posts
-
-📝 [Machine Learning Series](https://techwakerai.blogspot.com/search/label/Machine%20Learning?&max-results=10)<br>
-📝 [Reinforcement Learning Series](https://techwakerai.blogspot.com/search/label/Reinforcement%20Learning?&max-results=5)
-
----
 
 
 [website]: https://www.iamb2s.ml/
