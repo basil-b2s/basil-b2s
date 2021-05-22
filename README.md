@@ -28,8 +28,6 @@
 - Machine Learning
 - Reinforcement Learning
 
----
-
 
 
 [website]: https://www.iamb2s.ml/
