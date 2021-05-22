@@ -46,6 +46,17 @@
 
 <br/>
 
+---
+
+### GitHub Stats
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=basil-b2s&show_icons=true&theme=dark&line_height=27" alt="github stats"/>
+</a>
+
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basil-b2s&theme=dark&hide_langs_below=1" />
+</a>
+
 ### Favorite Repos🤗
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=basil-b2s&repo=InstaBot&theme=dark)](https://github.com/basil-b2s/InstaBot)
