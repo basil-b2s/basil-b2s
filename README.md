@@ -13,12 +13,19 @@
 
 ### Connect with me:
 
-[<img align="left" alt="iamb2s.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="iamb2s | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="iamb2s | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iamb2s | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.iamb2s.ml/">
+  <img align="left" alt="Website" width="24px" src="Social-icons/global.png" />
+</a>
+<a href="https://www.linkedin.com/in/basilsaji-b2s/">
+  <img align="left" alt="LinkedIn" width="26px" src="Social-icons/linkedin.png" />
+</a>
+<a href="https://twitter.com/BasilB2S">
+  <img align="left" alt="Twitter" width="26px" src="Social-icons/twitter.png" />
+</a>
+<a href="https://www.instagram.com/i_am__b2s/">
+  <img align="left" alt="Instagram" width="26px" src="Social-icons/instagram.png" />
+</a>
 
-<br/>
 <br/>
 
 ---
@@ -26,17 +33,8 @@
 ### My Interests:
 - Python Programming
 - Machine Learning
-- Reinforcement Learning
+- Natural Language Processing
 
-
-
-[website]: https://www.iamb2s.ml/
-[twitter]: https://twitter.com/BasilB2S
-[linkedin]: https://www.linkedin.com/in/basilsaji-b2s/
-[instagram]: https://www.instagram.com/i_am__b2s/
-
-
-<br/>
 
 ---
 
@@ -49,10 +47,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basil-b2s&theme=dark&hide_langs_below=1" />
 </a>
 
+---
+
 ### Favorite Repos🤗
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=basil-b2s&repo=InstaBot&theme=dark)](https://github.com/basil-b2s/InstaBot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=basil-b2s&repo=Google_meet_bot&theme=dark)](https://github.com/basil-b2s/Google_meet_bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=basil-b2s&repo=Portfolio&theme=dark)](https://github.com/basil-b2s/Portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=basil-b2s&repo=Flower-prediction&theme=dark)](https://github.com/basil-b2s/Flower-prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=basil-b2s&repo=Language-Detector&theme=dark)](https://github.com/basil-b2s/Language-Detector)
 
