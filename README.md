@@ -1,7 +1,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basil-b2s&label=Views&color=blue&style=plastic" alt="basil-b2s" /> </p>
 
-### Hi, I'm Basil Saji 😎
+Hi 👋 I'm Basil Saji
+===========================
 
 ### I'm a Student👨‍🎓, Programmer💻 and ML Enthusiast😎
 
