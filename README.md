@@ -14,7 +14,7 @@ Hi 👋 I'm Basil Saji
 
 ### Connect with me:
 
-<a href="https://www.basilsaji.ml/">
+<a href="https://basil-b2s.github.io/Portfolio/">
   <img align="left" alt="Website" width="24px" src="Social-icons/global.png" />
 </a>
 <a href="https://www.linkedin.com/in/basilsaji-b2s/">
