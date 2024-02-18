@@ -4,7 +4,7 @@
 Hi 👋 I'm Basil Saji
 ===========================
 
-### I'm a Student👨‍🎓, Programmer💻 and ML Enthusiast😎
+### I'm a Programmer💻 and ML Enthusiast😎
 
 - 💻 Interested in Natural Language Processing
 - 📖 I’m currently in learning mode 
