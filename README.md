@@ -4,9 +4,9 @@
 Hi 👋 I'm Basil Saji
 ===========================
 
-### I'm a Programmer💻 and ML Enthusiast😎
+### I'm a Software Developer @ CareStack💻 and ML Enthusiast😎
 
-- 💻 Interested in Natural Language Processing
+- 💻 Interested in Web Developement
 - 📖 I’m currently in learning mode 
 - 👯 I’m looking to collaborate with other content creators
 
